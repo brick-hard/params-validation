@@ -65,5 +65,5 @@ class ParamsValidation{
 }
 ```
 
-You can add several `And` and `Or` in `IntricateAnd` too and use `ValidationUtils.validateIntricateAnd()` , which means every `And` and `Or` validations in `IntricateAnd` must be passed.
+You can add several `And` and `Or` in `IntricateAnd` too and use `ValidationUtils.validateIntricateAnd()` , which means every `And` and `Or` validation in `IntricateAnd` must be passed.
 
