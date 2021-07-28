@@ -42,7 +42,7 @@ If you pass an object of `ParamsValidation` in `ValidationUtils.validateAnd()`, 
 ## IntricateOr
 
 ```java
-@IntricateOr(andRelations = {@And(values = {"param1, param4"})}, orRelations = {@Or(values = "param2", "param3")})
+@IntricateOr(andRelations = {@And(values = {"param1, param4"})}, orRelations = {@Or(values = {"param2", "param3"})
 class ParamsValidation{
   private Object param1;
   private Object param2;
