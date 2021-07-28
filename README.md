@@ -23,7 +23,7 @@ class ParamsValidation{
 }
 ```
 
-If you pass an object of `ParamsValidation` in `ValidationUtils.validateOr()`, this means the properties of the object named `param1` and `param2` must exist at least one, otherwise `ValidationUtils.validate()` will throw an exception.
+If you pass an object of `ParamsValidation` in `ValidationUtils.validateOr()`, this means the properties of the object named `param1` and `param2` must exist at least one, otherwise `ValidationUtils.validateOr()` will throw an exception.
 
 ## And
 
