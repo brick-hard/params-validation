@@ -1,6 +1,6 @@
 # Usage
 
-This project contains 4 annotations, they are all used on classes together with utils in package `src/main/java/utils`. The introduction is as followed if we have a class `ParamsValidation`.
+This project contains 4 annotations, they are all used on classes together with utils in package `src/main/java/utils`. The introduction is as followes if we have a class `ParamsValidation`.
 
 ```java
 class ParamsValidation{
